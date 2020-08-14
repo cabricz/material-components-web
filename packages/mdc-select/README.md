@@ -122,7 +122,7 @@ When using the select, you will also need to load the Menu and List components' 
 @use "@material/list/mdc-list";
 @use "@material/menu-surface/mdc-menu-surface";
 @use "@material/menu/mdc-menu";
-@use "@material/select/select";
+@use "@material/select";
 
 @include select.core-styles();
 
